@@ -13,6 +13,4 @@ It also includes admin feature that can view all the uploaded item to cloud spac
 It eradicates the issue of carrying one's ORIGINAL DOCUMENTS, since he can access all of them just by one CLICK!
 
 
-Made using Php,MySql,Bootstrap,Html,Css
-<h3>Team name: DjDecoders.</h3>
 <h3>Created during Mumbai Hackathon 25-26 Feb,2017</h3>
